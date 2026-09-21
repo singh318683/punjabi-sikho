@@ -1,9 +1,0 @@
-{
-  "appId": "com.ikshana.punjabisikho",
-  "appName": "Punjabi Sikho",
-  "webDir": "www",
-  "backgroundColor": "#FBF6EE",
-  "ios": {
-    "contentInset": "always"
-  }
-}
